@@ -31,7 +31,7 @@ end
 
 
 def matrix_lookup(matrix, row, column)
-  assembled_matrix[3][2]
+  assembled_matrix[3][1]
 end
 
 
