@@ -20,13 +20,9 @@ end
 
 
 def matrix_lookup(matrix, row, column)
-  
+  matrix_lookup(sorted_matrix,1,1)
 end
-  matrix = sorted_matrix
-  row = 1
-  column = 1
   
-  puts matrix_lookup(matrix,row,column)
 
 
 
