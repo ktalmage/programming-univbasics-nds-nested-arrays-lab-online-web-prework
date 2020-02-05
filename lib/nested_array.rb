@@ -34,7 +34,7 @@ def matrix_lookup(matrix, row, column)
   
 end
 matrix = sorted_matrix
-row = l
+row = 1
 column = 1
 puts matrix_lookup(matrix,row,column)
 
