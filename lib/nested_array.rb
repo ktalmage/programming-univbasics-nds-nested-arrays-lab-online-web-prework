@@ -34,4 +34,4 @@ row = 1
 column = 1
 new_value = "Lima beans"
 
-puts 
+puts matrix_update(matrix, row, column, new_value)
