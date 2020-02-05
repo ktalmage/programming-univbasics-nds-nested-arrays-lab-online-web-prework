@@ -23,7 +23,7 @@ def matrix_lookup(matrix, row, column)
   sorted_matrix[1][1]
   
 end
-  
+  puts sorted_matrix[1][1]
 
 
 
