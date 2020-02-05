@@ -26,4 +26,12 @@ end
   
 def matrix_update(matrix, row, column, new_value)
   matrix[row][column] = new_value
+return matrix
 end
+
+matrix = sorted_matrix
+row = 1
+column = 1
+new_value = "Lima beans"
+
+puts 
