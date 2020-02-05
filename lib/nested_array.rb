@@ -20,9 +20,13 @@ end
 
 
 def matrix_lookup(matrix, row, column)
-  assembled_matrix[1][1]
+  matrix_coordinates = matrix(row,column)
+  return matrix_coordinates
 end
-
+  matrix = sorted_matrix
+  row = 1
+  column = 1
+  
 
 
 
