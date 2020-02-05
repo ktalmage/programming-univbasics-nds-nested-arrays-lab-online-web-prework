@@ -33,7 +33,7 @@ puts sorted_matrix
 def matrix_lookup(matrix, row, column)
   sorted_matrix[9][0]
 end
-
+puts matrix_lookup(sorted_matrix,9,0)
 
 def matrix_update(matrix, row, column, new_value)
   # Given any matrix (array of arrays), a row index and a column index, 
